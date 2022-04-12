@@ -1,8 +1,11 @@
 #!/usr/bin/python3
-#pylint: disable=invalid-name
+
 """
 Program that generates pascal triangle based on user input number of rows
 """
+
+#pylint: disable=invalid-name
+
 def pascal_triangle(number_of_rows):
     """
     function that returns pascal's triangle in 2D
