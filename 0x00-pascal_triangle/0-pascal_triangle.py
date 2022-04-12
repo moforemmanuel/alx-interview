@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#pylint: disable=invalid-name
 """
 Program that generates pascal triangle based on user input number of rows
 """
