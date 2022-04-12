@@ -4,7 +4,8 @@
 Program that generates pascal triangle based on user input number of rows
 """
 
-#pylint: disable=invalid-name
+# pylint: disable=invalid-name
+
 
 def pascal_triangle(number_of_rows):
     """
